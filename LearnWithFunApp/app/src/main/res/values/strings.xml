@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LearnWithFunApp</string>
+    <string-array name="lstData">
+        <item></item>
+    </string-array>
+</resources>
