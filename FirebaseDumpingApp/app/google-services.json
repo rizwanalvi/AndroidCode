@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "552942816341",
+    "firebase_url": "https://smsc-3c33a-default-rtdb.firebaseio.com",
+    "project_id": "smsc-3c33a",
+    "storage_bucket": "smsc-3c33a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552942816341:android:bed6bcd92893211fe758dc",
+        "android_client_info": {
+          "package_name": "com.example.firebasedumpingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552942816341-3gjbqobeo2rppfqtacr8mthg1arrba9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedumpingapp",
+            "certificate_hash": "6dc5499d4f373b410b883886a29bd367eb0bb519"
+          }
+        },
+        {
+          "client_id": "552942816341-b9qbme7ugdr8lvno446g0j2fq5ip9rrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchSb_d8Nd8tf-NKLXkJMzo_ocWjdbtNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552942816341-b9qbme7ugdr8lvno446g0j2fq5ip9rrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

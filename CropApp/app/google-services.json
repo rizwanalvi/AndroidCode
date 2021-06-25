@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717142611774",
+    "firebase_url": "https://cropapp-37b34.firebaseio.com",
+    "project_id": "cropapp-37b34",
+    "storage_bucket": "cropapp-37b34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717142611774:android:5b25d445844d6561287e6f",
+        "android_client_info": {
+          "package_name": "com.example.cropapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717142611774-ihqiji2phsihn3gdkcr0r83n3dfokfku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cropapp",
+            "certificate_hash": "6dc5499d4f373b410b883886a29bd367eb0bb519"
+          }
+        },
+        {
+          "client_id": "717142611774-9j6krr3eq7vvhcjqv19ngfingmg09tgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAqpp1nQK6dezFhSTjeHmEOIUjE7WaiL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717142611774-9j6krr3eq7vvhcjqv19ngfingmg09tgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

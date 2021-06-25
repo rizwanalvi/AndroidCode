@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CropDetailActivity">
+<TextView
+    android:id="@+id/txtHeading"
+    android:text="data"
+    android:textSize="35sp"
+    android:gravity="center"
+    android:layout_alignParentTop="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+    <LinearLayout
+    android:layout_below="@id/txtHeading"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:scaleType="fitXY"
+            android:id="@+id/imgData"
+            android:src="@drawable/ic_launcher_background"
+            android:layout_below="@id/txtHeading"
+android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+            <Button
+                android:id="@+id/btnPlaceBid"
+                android:text="PLACE YOUR BID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        <TextView
+            android:text="dafadsfadsfasdfadsfadsfadsfad"
+            android:textSize="20sp"
+            android:id="@+id/txtDesc"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+</RelativeLayout>
