@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CropActivity">
+<TextView
+    android:id="@+id/txtSubject"
+    android:layout_width="match_parent"
+    android:textSize="26dp"
+    android:textAllCaps="true"
+    android:textAlignment="center"
+    android:layout_height="wrap_content"
+    android:text="@string/app_name"/>
+<ImageView
+    android:id="@+id/imgView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scaleType="centerCrop"
+    android:src="@drawable/bajara"
+
+    />
+    <Button
+        android:id="@+id/btnAction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Place your Bid"
+        />
+    <TextView
+        android:id="@+id/txtDetails"
+        android:justificationMode="inter_word"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Crop Price App</string>
+    <string-array name="lstCourse">
+        <item>Bajra</item>
+        <item>Jowar</item>
+        <item>Rice</item>
+        <item>Soybean</item>
+        <item>Wheat</item>
+        <item>Cotton</item>
+        <item>SugarCane</item>
+        <item>Tea</item>
+    </string-array>
+</resources>
